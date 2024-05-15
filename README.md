@@ -1,4 +1,5 @@
 
+
 # crypto-buy-sell
 
  - 45% of Cash going to trade BTC(11-05-2024 - now)
@@ -11,8 +12,14 @@
 25% buy (market-order) eth 2907.74 1:38pm - tp 3100
 
 ## 14-05-2024
-12.5% buy (market-order) btc 61850 1:03pm tp 6300 (close 12.5% of Previous buy) (+1.5%)
+12.5% buy (market-order) btc 61850 1:03pm tp 6400 (close 12.5% of Previous buy) (+1.5%)
 
 no change to eth
 
 10% buy (market-order) link 13.43 1:30pm - tp 14.10
+
+## 16-05-2024
+0% buy (market-order) btc 12:16am (previous order 0.2% +  0.6%)
+0% buy (market-order)eth 12:16am (previous order 1%)
+0% buy (market-order)link 12:16am (previous order 0.2%) 
+total 1.6% after commision cost based on binance
