@@ -23,3 +23,6 @@ no change to eth
 0% buy (market-order)eth 12:16am (previous order 1%)
 0% buy (market-order)link 12:16am (previous order 0.2%) 
 total 1.6% after commision cost based on binance
+
+## 19-05-2024
+1% lev 5x short (market-order) btc 67120 12:46pm tp 62000
