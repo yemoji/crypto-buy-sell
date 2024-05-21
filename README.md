@@ -26,3 +26,7 @@ total 1.6% after commision cost based on binance
 
 ## 19-05-2024
 1% lev 5x short (market-order) btc 67120 12:46pm tp 62000
+
+## 21-05-2024
+1% lev 5x short (market-order) btc 67120 12:46pm tp 62000 (previous order-open)
+2% lev 5x short (market-order) btc 71350 10:37pm tp 62000
