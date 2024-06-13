@@ -48,3 +48,10 @@ total 1.6% after commision cost based on binance
 
 2% lev 5x short (market-order) eth 3906 10:41am tp 3150 (prevoious order-open) tpchange
 
+
+##13-06-2024 11:18am
+close all opened Orders btc 67636 || eth 3500
+profit: -0.0003% + 0.5% + 0.6% + 1%
+total: =~ 2.1%
+
+from start: 3.8%
